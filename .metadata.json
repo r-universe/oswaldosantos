@@ -1,0 +1,14 @@
+[
+  {
+    "package": "capm",
+    "oncran": true
+  },
+  {
+    "package": "EpiDynamics",
+    "oncran": true
+  },
+  {
+    "package": "ggsn",
+    "oncran": true
+  }
+]
