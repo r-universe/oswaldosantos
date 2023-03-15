@@ -1,10 +1,10 @@
 [
   {
-    "package": "capm",
+    "package": "EpiDynamics",
     "oncran": true
   },
   {
-    "package": "EpiDynamics",
+    "package": "capm",
     "oncran": true
   },
   {
