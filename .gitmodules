@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "capm"]
-	path = capm
-	url = https://github.com/oswaldosantos/capm
 [submodule "EpiDynamics"]
 	path = EpiDynamics
 	url = https://github.com/oswaldosantos/epidynamics
+[submodule "capm"]
+	path = capm
+	url = https://github.com/oswaldosantos/capm
 [submodule "ggsn"]
 	path = ggsn
 	url = https://github.com/oswaldosantos/ggsn
