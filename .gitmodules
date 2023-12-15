@@ -8,6 +8,3 @@
 [submodule "capm"]
 	path = capm
 	url = https://github.com/oswaldosantos/capm
-[submodule "ggsn"]
-	path = ggsn
-	url = https://github.com/oswaldosantos/ggsn
