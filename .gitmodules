@@ -5,6 +5,3 @@
 [submodule "EpiDynamics"]
 	path = EpiDynamics
 	url = https://github.com/oswaldosantos/epidynamics
-[submodule "capm"]
-	path = capm
-	url = https://github.com/oswaldosantos/capm
